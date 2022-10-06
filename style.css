@@ -5,6 +5,7 @@ h1 {
 body {
     background-color: #eee;
     text-align: center;
+    font-family: source sans pro;
 }
 .newspaper-container {
     border-radius: 25px;
@@ -12,9 +13,19 @@ body {
     box-shadow: red;
     padding: 25px;
     background-color: white;
+    font-family: roboto Slab;
+    
+}
+
+header {
+    font-family: Abril Fatface;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    color: #777;
 }
 nav {
-    display: inline-block;
-  
-    
+    border-top: 10px;
+    border-bottom: 10px;
 }
